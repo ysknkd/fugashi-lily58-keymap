@@ -1,5 +1,5 @@
 
-## Descriptioh
+## Description
 
 My Lily58 keymap
 
