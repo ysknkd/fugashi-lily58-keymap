@@ -14,6 +14,7 @@ $ git clone https://github.com/qmk/qmk_firmware
 $ cd qmk_firmware
 $ ./util/new_keymap.sh lily58 fugashi
 $ cp path/to/fugashi-lily58-keymaps/keymap.c ./keyboards/lily58/keymap/fugashi/
+$ cp path/to/fugashi-lily58-keymaps/rules.mk ./keyboards/lily57/keymap/fugashi/
 ```
 
 ```console
